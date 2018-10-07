@@ -12,7 +12,6 @@ char squares[9] = {' ',' ',' ',' ',' ',' ',' ',' ',' '};
  */
 void board()
 {
-    system("cls");
     // \n means new line, like hitting the enter button on a text editor
 	cout << "\n\nTic Tac Toe\n" << endl;
 
